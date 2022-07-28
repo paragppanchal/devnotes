@@ -41,6 +41,17 @@
 
   
       ,"page3": {
+          "title": "Projects",
+          "content": "Parag Panchal&#39;s Project Portfolio .",
+          "url": "https://paragppanchal.github.io/devnotes/projects/",
+          "relUrl": "/projects/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page4": {
           "title": "Resume",
           "content": "Parag Panchal&#39;s Resume .",
           "url": "https://paragppanchal.github.io/devnotes/resume/",
@@ -70,7 +81,7 @@
   
 
   
-      ,"page11": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://paragppanchal.github.io/devnotes/robots.txt",
